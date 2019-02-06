@@ -1,0 +1,6 @@
+framework module Pods_20190206_ChoonghunLee_NYCSchools {
+  umbrella header "Pods-20190206-ChoonghunLee-NYCSchools-umbrella.h"
+
+  export *
+  module * { export * }
+}

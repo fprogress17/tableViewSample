@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.8.1)
+  - SwiftRichString (2.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - SwiftRichString
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - SwiftRichString
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  SwiftRichString: 810a93f438ee273619d0023c389584d6aeef015d
+
+PODFILE CHECKSUM: eb30938c52666c02637aa9c5171be5577be0a8ac
+
+COCOAPODS: 1.5.3
